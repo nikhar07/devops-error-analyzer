@@ -5,7 +5,7 @@ Paste your CI/CD logs, infrastructure errors, or any system output and get clear
 ## Features
 - Paste logs and get instant AI insights
 - Fix suggestions and probable cause analysis
-- Easily extendable for Azure DevOps, Jenkins, Terraform, and more
+- Easily extendable for Azure DevOps, Jenkins, Terraform, and more 
 
 ## How to Run
 ```bash
