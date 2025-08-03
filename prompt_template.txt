@@ -1,0 +1,8 @@
+You are a DevOps engineer. Analyze this error log:
+{{log_content}}
+
+Explain:
+- Root cause
+- Possible fix
+- Tool or service causing it
+- 2-3 helpful reference docs or StackOverflow/GitHub links
